@@ -1,7 +1,7 @@
 ### നമസ്കാരം | hey there 👋
-I'm Numan - a 21 year old CS Engineerging student, and an aspiring web developer. I'm from Kerala 🇮🇳 but spent most of my life in Saudi Arabia 🇸🇦.
+I'm Numan - a 21 year old CS Engineering student, and an aspiring web developer. I'm from Kerala 🇮🇳, but spent most of my life in Saudi Arabia 🇸🇦.
 
-I've created a bunch of small projects to polish my skills; feel free to scour through my profile to test them out. It's almost exclusively web dev stuff, mostly using React and NodeJS. 
+I've created a bunch of small projects to improve and polish my skills; feel free to scour through my profile to check them out. It's almost exclusively web dev stuff, mostly using React and NodeJS. 
 
 ***
 
