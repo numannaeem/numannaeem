@@ -21,7 +21,7 @@ I'm active on [Instagram](https://instagram.com/num4n_) and [LinkedIn](https://l
 #### few not-so-fun facts ⚡
 
 - I love playing and watching chess (although admittingly I'm not very good at it). Just hit me up if you ever wanna play a game.
-- My favourite football club is Bayern Munich ❤️ Not big on cricket, but I do enjoy the Indian Premier League.
+- My favourite football club is Bayern Munich ❤️
 - Dark is my all-time favourite TV series. If you're into sci-fi shows and haven't watched it yet, you're honestly missing out.
 - I listen to a lot of music, and my taste is very diverse. But if I had to pick a favourite artist, it would be [Eden](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt).
 
