@@ -1,5 +1,5 @@
 ### hi! 👋
-I'm Numan - a 21 year-old CS Engineering student, and an aspiring web developer. I'm from Kerala 🇮🇳, but spent most of my life in Saudi Arabia 🇸🇦. To know more, check out my [portfolio](https://numxn.me)!
+I'm Numan - a 22 year-old software engineer at Hewlett-Packard Enterprise. I'm from Kerala 🇮🇳, but spent most of my life in Saudi Arabia 🇸🇦. To know more, check out my [portfolio](https://numxn.netlify.app)!
 
 [![@numxn's Holopin board](https://holopin.io/api/user/board?user=numxn)](https://holopin.io/@numxn)
 
@@ -25,7 +25,7 @@ I'm active on [Instagram](https://instagram.com/num4n_) and [LinkedIn](https://l
 - I love playing and watching chess (although admittingly I'm not very good at it). Just hit me up if you ever wanna play a game.
 - I enjoy watching football, and Bayern Munich is my favourite team.
 - Dark is the greatest TV series of all time in my opinion. If you're into sci-fi shows and haven't watched it yet, you're missing out!
-- I listen to a lot of music, and my taste is very diverse. But if I had to pick a favourite artist, it would be [Eden](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt).
+- I listen to a lot of music, and my taste is very diverse. But I'm a diehard [_The Strokes_](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) fan.
 
 
 <!--
